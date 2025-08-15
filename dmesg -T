@@ -1,0 +1,2018 @@
+radxa@radxa-cubie-a5e ~> sudo dmesg -T
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set info done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set info done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set info done
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:46:40 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:46:40 2025] dma dma1chan0: The timeout func is not suportted or chan->private is NULL, timeout mode not used
+[Fri Aug 15 01:46:40 2025] Bluetooth: RFCOMM TTY layer initialized
+[Fri Aug 15 01:46:40 2025] Bluetooth: RFCOMM socket layer initialized
+[Fri Aug 15 01:46:40 2025] Bluetooth: RFCOMM ver 1.11
+[Fri Aug 15 01:46:41 2025] sunxi-gmac 4500000.gmac0 eth0: Link is Up - 1Gbps/Full - flow control off
+[Fri Aug 15 01:46:41 2025] IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:46:44 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:46:45 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:48 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:46:49 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:46:53 2025] sunxi:axp2202_usb_power:[INFO]: current limit not set: usb adapter type
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-ve-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-vi-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-vo0-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-vo1-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-de-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-nand-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-pcie-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-dsp-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-npu-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-sram-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] sunxi:sunxi_pd_test-0.pd-riscv-test:[WARN]: runtime_suspend disable clock
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:46:56 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] axp2202-dcdc4: disabling
+[Fri Aug 15 01:47:05 2025] axp2202-aldo1: disabling
+[Fri Aug 15 01:47:05 2025] axp2202-vmid: disabling
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:05 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:47:06 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:19 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:47:20 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:47:40 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:08 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:48:09 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:51 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:48:52 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set info done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set info done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set info done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set info done
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: dw audio unset when hdmi_on(0) audio_on(0)
+[Fri Aug 15 01:49:42 2025] [drm] sunxi-hdmi: hdmi drv audio set enable done
+[Fri Aug 15 01:49:47 2025] [drm] sunxi-hdmi: hdmi drv audio set disable done
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:49:56 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4104)SCANU_VENDOR_IE_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1008
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_connect()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_set_conn_state drv_conn_state:0000000029a987ac RWNX_DRV_STATUS_DISCONNECTED --> RWNX_DRV_STATUS_CONNECTING
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_sm_connect_req()
+[Fri Aug 15 01:50:12 2025] rwnx_send_sm_connect_req drv_vif_index:0 connect to Imran's WiFi(12) channel:5805 auth_type:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (6145)SM_CONNECT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1801
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1802
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_sm_connect_ind()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_connect_ind ind->status_code:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_connect_ind ind->roamed:0 ind->status_code:0 rwnx_vif->drv_conn_state:2
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_set_conn_state drv_conn_state:0000000029a987ac RWNX_DRV_STATUS_CONNECTING --> RWNX_DRV_STATUS_CONNECTED
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_connect_ind cfg80211_connect_result pass, rwnx_vif->drv_conn_state:3
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGINFO)    need cfm ethertype:    8e88,user_idx=1, skb=00000000e58fd949
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGINFO)    sdio_host_tx_cfm_handler:used_idx=0, 0x00000000fe83bb81, status=9
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGINFO)    need cfm ethertype:    8e88,user_idx=2, skb=00000000b171a105
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_add_key()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_key_add()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_key_add: sta_idx:0 key_idx:0 inst_nbr:0 cipher:2 key_len:16
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (37)MM_KEY_ADD_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x25
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGINFO)    sdio_host_tx_cfm_handler:used_idx=1, 0x00000000fe83bb81, status=9
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_add_key()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_key_add()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_key_add: sta_idx:255 key_idx:1 inst_nbr:0 cipher:2 key_len:16
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (37)MM_KEY_ADD_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x25
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_cfg_rssi_req()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (134)MM_CFG_RSSI_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x86
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(2):4 TxIndex:9 ModRx(0):0 RxHTIndex:0 RxVHTIndex:0 RxHEIndex:0 RSSI:-67
+[Fri Aug 15 01:50:12 2025] get_txpwr_max:txpwr_max:18
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_me_set_control_port_req()
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (5125)ME_SET_CONTROL_PORT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1405
+[Fri Aug 15 01:50:12 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGINFO)    reord_init_sta:a8:b5:8e:69:2c:9d
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGINFO)    paired=fac04, should=fac04
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_arpoffload_en_req()
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (98)MM_SET_ARPOFFLOAD_CFM reqcfm:1 in_irq:0 in_softirq:512 in_atomic:1
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGTRACE)   >>> cmd_mgr_task_process()
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x62
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:50:13 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:50:37 2025] sunxi-gmac 4500000.gmac0 eth0: Link is Down
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x57
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_rssi_status_ind()
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(2):4 TxIndex:5 ModRx(0):0 RxHTIndex:0 RxVHTIndex:0 RxHEIndex:0 RSSI:-75
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:38 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:50:40 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:50:51 2025] AICWFDBG(LOGINFO)    flush:tid=6
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:10 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:51:13 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:15 2025] AICWFDBG(LOGINFO)    flush:tid=0
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:43 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:45 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(2):4 TxIndex:4 ModRx(0):0 RxHTIndex:0 RxVHTIndex:0 RxHEIndex:0 RSSI:-73
+[Fri Aug 15 01:51:46 2025] get_txpwr_max:txpwr_max:18
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_cfg_rssi_req()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (134)MM_CFG_RSSI_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x86
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_connect()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_cfg80211_connect this connection is roam
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_set_conn_state drv_conn_state:0000000029a987ac RWNX_DRV_STATUS_CONNECTED --> RWNX_DRV_STATUS_ROAMING
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_sm_connect_req()
+[Fri Aug 15 01:51:46 2025] rwnx_send_sm_connect_req drv_vif_index:0 connect to Imran's WiFi(12) channel:2422 auth_type:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (6145)SM_CONNECT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1801
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1805
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_disconnect_ind reason code:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_disconnect_ind roaming no rwnx_cfg80211_unlink_bss
+[Fri Aug 15 01:51:46 2025] deinit:macaddr:a8,b5,8e,69,2c,9d
+[Fri Aug 15 01:51:46 2025] reord_mac:a8,b5,8e,69,2c,9d
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1802
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_sm_connect_ind()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_connect_ind ind->status_code:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_connect_ind ind->roamed:1 ind->status_code:0 rwnx_vif->drv_conn_state:4
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_set_conn_state drv_conn_state:0000000029a987ac RWNX_DRV_STATUS_ROAMING --> RWNX_DRV_STATUS_CONNECTED
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_me_set_control_port_req()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (5125)ME_SET_CONTROL_PORT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1405
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    need cfm ethertype:    8e88,user_idx=3, skb=000000001fef40e2
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    sdio_host_tx_cfm_handler:used_idx=2, 0x00000000fe83bb81, status=9
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    need cfm ethertype:    8e88,user_idx=4, skb=00000000f74f64f6
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_add_key()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_key_add()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_key_add: sta_idx:1 key_idx:0 inst_nbr:0 cipher:2 key_len:16
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (37)MM_KEY_ADD_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x25
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_add_key()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_key_add()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_key_add: sta_idx:255 key_idx:1 inst_nbr:0 cipher:2 key_len:16
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (37)MM_KEY_ADD_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x25
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    sdio_host_tx_cfm_handler:used_idx=3, 0x00000000fe83bb81, status=9
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_cfg_rssi_req()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (134)MM_CFG_RSSI_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x86
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(1):4 TxIndex:9 ModRx(0):0 RxHTIndex:0 RxVHTIndex:0 RxHEIndex:0 RSSI:-59
+[Fri Aug 15 01:51:46 2025] get_txpwr_max:txpwr_max:18
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_me_set_control_port_req()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (5125)ME_SET_CONTROL_PORT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1405
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    reord_init_sta:a8:b5:8e:69:2c:9d
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGINFO)    paired=fac04, should=fac04
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_arpoffload_en_req()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (98)MM_SET_ARPOFFLOAD_CFM reqcfm:1 in_irq:0 in_softirq:512 in_atomic:1
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> cmd_mgr_task_process()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x62
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:51:46 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:51:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:51:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:51:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:51:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:52:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:52:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:52:11 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:52:22 2025] AICWFDBG(LOGINFO)    flush:tid=0
+[Fri Aug 15 01:52:37 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:52:37 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:37 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:37 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:52:37 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:52:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:52:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:52:44 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:52:50 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:52:50 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:50 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:50 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:50 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:52:50 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:52:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:52:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:52:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:52:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:12 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:33 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:33 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:33 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:33 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:33 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:33 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:39 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:47 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x57
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_rssi_status_ind()
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(1):4 TxIndex:8 ModRx(1):2 RxHTIndex:7 RxVHTIndex:0 RxHEIndex:0 RSSI:-78
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_scan()
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_scanu_req()
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:1(2412)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:2(2417)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:3(2422)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:4(2427)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:5(2432)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:6(2437)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:7(2442)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:8(2447)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:9(2452)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:10(2457)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:11(2462)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:12(2467)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:13(2472)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:14(2484)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:36(5180)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:40(5200)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:44(5220)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:48(5240)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:52(5260)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:56(5280)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:60(5300)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:64(5320)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:100(5500)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:104(5520)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:108(5540)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:112(5560)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:116(5580)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:120(5600)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:124(5620)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:128(5640)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:132(5660)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:136(5680)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:140(5700)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:144(5720)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:149(5745)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:153(5765)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:157(5785)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:161(5805)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   scan channel:165(5825)
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (4105)SCANU_START_CFM_ADDTIONAL reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1009
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:55 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x57
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_rssi_status_ind()
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(1):4 TxIndex:8 ModRx(1):2 RxHTIndex:7 RxVHTIndex:0 RxHEIndex:0 RSSI:-65
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:56 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:57 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x45
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1001
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_scanu_start_cfm()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(1):4 TxIndex:8 ModRx(1):2 RxHTIndex:7 RxVHTIndex:0 RxHEIndex:0 RSSI:-59
+[Fri Aug 15 01:53:58 2025] get_txpwr_max:txpwr_max:18
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_cfg_rssi_req()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (134)MM_CFG_RSSI_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x86
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_connect()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_cfg80211_connect this connection is roam
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_set_conn_state drv_conn_state:0000000029a987ac RWNX_DRV_STATUS_CONNECTED --> RWNX_DRV_STATUS_ROAMING
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_sm_connect_req()
+[Fri Aug 15 01:53:58 2025] rwnx_send_sm_connect_req drv_vif_index:0 connect to Imran's WiFi(12) channel:5805 auth_type:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (6145)SM_CONNECT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1801
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1805
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_disconnect_ind reason code:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_disconnect_ind roaming no rwnx_cfg80211_unlink_bss
+[Fri Aug 15 01:53:58 2025] deinit:macaddr:a8,b5,8e,69,2c,9d
+[Fri Aug 15 01:53:58 2025] reord_mac:a8,b5,8e,69,2c,9d
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1004
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x4f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x44
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1802
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_sm_connect_ind()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_connect_ind ind->status_code:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    rwnx_rx_sm_connect_ind ind->roamed:1 ind->status_code:0 rwnx_vif->drv_conn_state:4
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_set_conn_state drv_conn_state:0000000029a987ac RWNX_DRV_STATUS_ROAMING --> RWNX_DRV_STATUS_CONNECTED
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_me_set_control_port_req()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (5125)ME_SET_CONTROL_PORT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1405
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    need cfm ethertype:    8e88,user_idx=5, skb=00000000b6aaf2a4
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    sdio_host_tx_cfm_handler:used_idx=4, 0x00000000fe83bb81, status=9
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    need cfm ethertype:    8e88,user_idx=6, skb=00000000f310a7ea
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_add_key()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_key_add()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_key_add: sta_idx:2 key_idx:0 inst_nbr:0 cipher:2 key_len:16
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (37)MM_KEY_ADD_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x25
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGINFO)    sdio_host_tx_cfm_handler:used_idx=5, 0x00000000fe83bb81, status=9
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_cfg80211_add_key()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_key_add()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_key_add: sta_idx:255 key_idx:1 inst_nbr:0 cipher:2 key_len:16
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (37)MM_KEY_ADD_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x25
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_cfg_rssi_req()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (134)MM_CFG_RSSI_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x86
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(2):4 TxIndex:9 ModRx(0):0 RxHTIndex:0 RxVHTIndex:0 RxHEIndex:0 RSSI:-65
+[Fri Aug 15 01:53:58 2025] get_txpwr_max:txpwr_max:18
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_me_set_control_port_req()
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (5125)ME_SET_CONTROL_PORT_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:58 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x1405
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGINFO)    reord_init_sta:a8:b5:8e:69:2c:9d
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGINFO)    paired=fac04, should=fac04
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   >>> rwnx_send_arpoffload_en_req()
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (98)MM_SET_ARPOFFLOAD_CFM reqcfm:1 in_irq:0 in_softirq:512 in_atomic:1
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   >>> cmd_mgr_task_process()
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x62
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x140b
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_me_tx_credits_update_ind()
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x57
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_rssi_status_ind()
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(2):4 TxIndex:9 ModRx(0):0 RxHTIndex:0 RxVHTIndex:0 RxHEIndex:0 RSSI:-76
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x57
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   >>> rwnx_rx_rssi_status_ind()
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_send_msg (118)MM_GET_STA_INFO_CFM reqcfm:1 in_irq:0 in_softirq:0 in_atomic:0
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_malloc get cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_rx_handle_msg msg->id:0x76
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGTRACE)   rwnx_cmd_free cmd_array[0]:000000002793f77f
+[Fri Aug 15 01:53:59 2025] AICWFDBG(LOGDEBUG)   rwnx_fill_station_info ModTx(1):4 TxIndex:2 ModRx(0):0 RxHTIndex:0 RxVHTIndex:0 RxHEIndex:0 RSSI:-64
+[Fri Aug 15 01:53:59 2025] usb 3-1: new high-speed USB device number 2 using sunxi-ehci
+[Fri Aug 15 01:53:59 2025] usb 3-1: New USB device found, idVendor=174c, idProduct=235c, bcdDevice= 1.00
+[Fri Aug 15 01:53:59 2025] usb 3-1: New USB device strings: Mfr=2, Product=3, SerialNumber=1
+[Fri Aug 15 01:53:59 2025] usb 3-1: Product: Ugreen Storage Device
+[Fri Aug 15 01:53:59 2025] usb 3-1: Manufacturer: Ugreen
+[Fri Aug 15 01:53:59 2025] usb 3-1: SerialNumber: 20D11E801184
+[Fri Aug 15 01:53:59 2025] usbcore: registered new interface driver usb-storage
+[Fri Aug 15 01:53:59 2025] scsi host0: uas
+[Fri Aug 15 01:53:59 2025] usbcore: registered new interface driver uas
+[Fri Aug 15 01:53:59 2025] scsi 0:0:0:0: Direct-Access     TOSHIBA  MQ01ABF050       0    PQ: 0 ANSI: 6
+[Fri Aug 15 01:53:59 2025] sd 0:0:0:0: [sda] 976773168 512-byte logical blocks: (500 GB/466 GiB)
+[Fri Aug 15 01:53:59 2025] sd 0:0:0:0: [sda] 4096-byte physical blocks
+[Fri Aug 15 01:53:59 2025] sd 0:0:0:0: [sda] Write Protect is off
+[Fri Aug 15 01:53:59 2025] sd 0:0:0:0: [sda] Mode Sense: 43 00 00 00
+[Fri Aug 15 01:53:59 2025] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+[Fri Aug 15 01:53:59 2025] sd 0:0:0:0: [sda] Optimal transfer size 33553920 bytes not a multiple of physical block size (4096 bytes)
+[Fri Aug 15 01:53:59 2025]  sda: sda1 sda2
+[Fri Aug 15 01:53:59 2025] sd 0:0:0:0: [sda] Attached SCSI disk
